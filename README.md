@@ -17,4 +17,7 @@
 -
 <br>视频播放基本控制,视频推荐列表(可水平切换页面)</br>
 
+<br>视频演示： https://pan.baidu.com/s/1QQCAZDmA6q4UHClfnaRoCw</br>
+
+<br>密码 18pb </br>
 
